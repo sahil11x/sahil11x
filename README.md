@@ -35,3 +35,58 @@ Shell : GitHub
 
 Version : v1.0
 ```
+```bash
+sahil@os:~$ whoami
+```
+
+```text
+Name        : Sahil Bansod
+Username    : sahil11x
+
+Role        : Android Developer
+Community   : AWS Student Builder Group Leader
+
+Focus Areas :
+ • Android Development
+ • Artificial Intelligence
+ • Cloud Computing (AWS)
+ • Cyber Security
+ • Open Source
+
+Mission :
+Crafting Ideas Into Reality
+
+Status :
+Building solutions that solve real-world problems through clean design,
+scalable code, and continuous learning.
+```
+
+---
+```bash
+sahil@os:~$ uname -a
+```
+
+```text
+OS            : SAHIL.OS
+Version       : 1.0
+Kernel        : GitHub README Engine
+Architecture  : Developer Edition
+Shell         : Markdown + HTML
+Theme         : Hacker Green
+Uptime        : 24/7
+Location      : India
+```
+
+---
+```bash
+sahil@os:~$ education
+```
+
+| Field | Details |
+|-------|---------|
+| 🎓 Degree | B.Tech Computer Science & Engineering |
+| 🏫 College | Sanjivani College of Engineering |
+| 📚 Current Year | Second Year |
+| 💡 Interests | Android • AI • AWS • Cyber Security |
+
+---
